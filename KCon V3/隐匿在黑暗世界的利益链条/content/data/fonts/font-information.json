@@ -1784,6 +1784,20 @@
             ]
         },
         {
+            "SansaPro": [
+                {
+                    "weight": "normal",
+                    "style": "normal",
+                    "file": "SansaPro-Regular.keg"
+                },
+                {
+                    "weight": "bold",
+                    "style": "normal",
+                    "file": "SansaPro-Bold.keg"
+                }
+            ]
+        },        
+        {
             "SeoulHangangL": [
                 {
                     "weight": "normal",
