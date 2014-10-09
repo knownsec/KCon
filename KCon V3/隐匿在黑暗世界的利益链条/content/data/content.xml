@@ -1,0 +1,281 @@
+<zuiprezi><version>7</version><zui-table><settings>
+									<autoplay>
+										<delay>4000</delay>
+									</autoplay>
+								<bounds x="-333468.2675967853" y="-133126.6115571059" width="666936.5351935707" height="266253.2231142118"/><aspectratio>16:9</aspectratio><languages><language>en</language></languages><mode type="normal"/></settings><object id="15" type="button" x="-44501.288721077275" y="0" r="0" s="444.4961988551116" class="invisible"><type>invisible</type><size><w>1301.2048192771083</w><h>600</h></size></object><object id="81_45341393" type="button" x="113288.29574149492" y="8808.772159555743" r="0" s="304.22243797684774" class="invisible"><type>invisible</type><size><w>1028.9108910891089</w><h>600</h></size><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="55_45341393" type="button" x="121778.04769571275" y="14114.133257459504" r="0" s="34.08926317136318" class="invisible"><type>invisible</type><size><w>1052.673267326733</w><h>600</h></size><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="6_45341393" type="shape" x="112515.39141115184" y="16322.84926444507" r="0" s="26.522480303588672" class="poly2"><style borderThickness="NaN"/><style borderThickness="NaN"/><geom type="poly"><p x="-148.9390302717685" y="-173.07084171186597"/><p x="148.9390302717685" y="-173.07084171186597"/><p x="148.9390302717685" y="173.07084171186597"/><p x="-148.9390302717685" y="173.07084171186597"/><t>NaN</t><r>0</r></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="2" type="text" x="109990.03054184448" y="13373.268258840388" r="0" s="88.97620717224795" class="head"><height>28.21875</height><width>-24.1875</width><p><text><![CDATA[$$]]></text></p><meta><parentTemplate>vital-signs</parentTemplate></meta></object><object id="3" type="text" x="109248.5682576401" y="12142.03526315239" r="0" s="15.775640996004809" class="strong"><height>33.375</height><width>-41.90625</width><p><text><![CDATA[ECG]]></text></p><meta><parentTemplate>vital-signs</parentTemplate></meta></object><object id="4" type="text" x="111858.66941120652" y="13971.3964017405" r="0" s="15.775640996004809" class="strong"><height>33.375</height><width>-47.484375</width><p><text><![CDATA[bpm]]></text></p><meta><parentTemplate>vital-signs</parentTemplate></meta></object><object id="37_45341393" type="persistentgroup" x="110573.59608701072" y="13253.723092971442" r="0" s="11.299816869271076"><m o="2"/><m o="3"/><m o="4"/><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="17_45341393" type="text" x="312467.075619826" y="31044.30022435828" r="0" s="124.56669004114704" class="head"><height>28.21875</height><width>-134.4375</width><p><text color="16777215"><![CDATA[Thank You!]]></text></p><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="8" type="button" x="-207531.5261124714" y="-34533.956530727155" r="0" s="231.67179589729153" class="invisible"><type>invisible</type><size><w>934.7181008902076</w><h>600</h></size></object><object id="7_45341393" type="image" x="-254345.52340690364" y="-62669.829139408335" r="0" s="129.30043280675747"><source w="510" h="510" bt="1125.7" bl="1234">1339722943<url>1339722943.swf</url></source><resource><id>1339722943</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/3/c/f3ae25ce6025945eb61842a7a85394c16f7e1.swf</url></resource><sourceUrl>EKG Symbol.swf</sourceUrl><extra><fixed_avm1_pos>1</fixed_avm1_pos></extra><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="1_45341393" type="shape" x="-70047.12049377165" y="33619.790231808" r="0" s="98.63221724888426" class="line4"><geom type="line"><sp>-56.62625039572987 0</sp><ep>56.62625039572987 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="2_45341393" type="shape" x="-62919.687228775176" y="31455.28400064084" r="-54.52925094812594" s="98.63221724888429" class="line4"><geom type="line"><sp>-26.94610180611599 0</sp><ep>26.94610180611599 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="3_45341393" type="shape" x="-58287.76167200753" y="31074.596644353885" r="29.99999999999994" s="98.63221724888436" class="line4"><geom type="line"><sp>-36.17111983559939 0</sp><ep>36.1711198355994 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="4_45341393" type="shape" x="-53268.997603383206" y="23589.149450378405" r="-78.2435477231949" s="98.63221724888426" class="line4"><geom type="line"><sp>-95.9917401257668 0</sp><ep>95.99174012576682 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="5_45341393" type="shape" x="-49612.23491036834" y="26902.923399127045" r="82.18211600691583" s="98.63221724888432" class="line4"><geom type="line"><sp>-128.7722363369219 0</sp><ep>128.77223633692188 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="9_45341393" type="shape" x="-46780.96879312096" y="36359.08946821671" r="-70.55996517182375" s="98.6322172488841" class="line4"><geom type="line"><sp>-33.618964853194306 0</sp><ep>33.6189648531943 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="10_45341393" type="shape" x="-44169.76628359457" y="32772.38111550885" r="-16.96227690287272" s="98.63221724888426" class="line4"><geom type="line"><sp>-15.98025418493114 0</sp><ep>15.98025418493114 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="11_45341393" type="shape" x="-39156.73247021643" y="27392.79884517271" r="-54.52925094812617" s="98.63221724888452" class="line4"><geom type="line"><sp>-61.24631334049081 0</sp><ep>61.2463133404908 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="12_45341393" type="shape" x="-32301.915316277416" y="26381.16315594741" r="49.40231566162369" s="98.63221724888442" class="line4"><geom type="line"><sp>-52.18385910737368 0</sp><ep>52.18385910737368 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="13_45341393" type="shape" x="-23176.143930067657" y="30289.275332864974" r="0" s="98.63221724888426" class="line4"><geom type="line"><sp>-58.56492196267595 0</sp><ep>58.56492196267595 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="14_45341393" type="shape" x="-13056.502506356015" y="31734.469174615395" r="18.40458179835883" s="98.63221724888432" class="line4"><geom type="line"><sp>-46.40859824666122 0</sp><ep>46.408598246661214 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="15_45341393" type="shape" x="-4110.684115219774" y="33179.66301636578" r="0" s="98.63221724888426" class="line4"><geom type="line"><sp>-46.663911670947414 0</sp><ep>46.663911670947414 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="26_45341393" type="shape" x="77998.49575908913" y="32728.42486124363" r="0" s="98.63221724888434" class="line4"><geom type="line"><sp>-56.62625039572987 0</sp><ep>56.62625039572987 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="27_45341393" type="shape" x="85125.92902408549" y="30563.91863007641" r="-54.52925094812591" s="98.63221724888426" class="line4"><geom type="line"><sp>-26.94610180611599 0</sp><ep>26.94610180611599 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="28_45341393" type="shape" x="89757.85458085331" y="30183.2312737895" r="29.99999999999989" s="98.63221724888436" class="line4"><geom type="line"><sp>-36.17111983559939 0</sp><ep>36.1711198355994 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="30_45341393" type="shape" x="95161.86283786775" y="2906.022026827388" r="-85.44672538336012" s="98.63221724888452" class="line4"><geom type="line"><sp>-295.5731643413744 0</sp><ep>295.5731643413744 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="32_45341393" type="shape" x="98788.1457678914" y="13754.156386613637" r="88.1223208912191" s="98.63221724888444" class="line4"><geom type="line"><sp>-404.8160774924252 0</sp><ep>404.8160774924252 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="33_45341393" type="shape" x="101234.16765880425" y="43002.08335284792" r="-83.92802916198582" s="98.63221724888392" class="line4"><geom type="line"><sp>-108.70061018226674 0</sp><ep>108.70061018226676 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="34_45341393" type="shape" x="103875.8499692662" y="31881.015744944467" r="-16.962276902872716" s="98.63221724888449" class="line4"><geom type="line"><sp>-15.98025418493114 0</sp><ep>15.98025418493114 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="35_45341393" type="shape" x="108888.88378264432" y="26501.43347460829" r="-54.52925094812606" s="98.63221724888432" class="line4"><geom type="line"><sp>-61.24631334049081 0</sp><ep>61.2463133404908 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="39_45341393" type="shape" x="115743.70093658332" y="25489.79778538296" r="49.40231566162363" s="98.63221724888419" class="line4"><geom type="line"><sp>-52.18385910737368 0</sp><ep>52.18385910737368 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="40_45341393" type="shape" x="124869.47232279308" y="29397.90996230056" r="0" s="98.63221724888434" class="line4"><geom type="line"><sp>-58.56492196267595 0</sp><ep>58.56492196267595 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="41_45341393" type="shape" x="134989.11374650447" y="30843.41202972998" r="18.40458179835884" s="98.63221724888407" class="line4"><geom type="line"><sp>-46.40859824666122 0</sp><ep>46.408598246661214 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="42_45341393" type="shape" x="143934.93213764104" y="32288.2976458014" r="0" s="98.63221724888434" class="line4"><geom type="line"><sp>-46.663911670947414 0</sp><ep>46.663911670947414 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="45_45341393" type="shape" x="6109.787765881963" y="33232.34490651506" r="0" s="98.63221724888426" class="line4"><geom type="line"><sp>-56.62625039572987 0</sp><ep>56.62625039572987 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="46_45341393" type="shape" x="13237.221030878543" y="31067.838675347964" r="-54.52925094812594" s="98.63221724888429" class="line4"><geom type="line"><sp>-26.94610180611599 0</sp><ep>26.94610180611599 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="47_45341393" type="shape" x="17869.146587646246" y="30687.151319060955" r="29.99999999999986" s="98.6322172488842" class="line4"><geom type="line"><sp>-36.17111983559939 0</sp><ep>36.1711198355994 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="48_45341393" type="shape" x="22887.91065627044" y="23201.704125085445" r="-78.2435477231949" s="98.63221724888426" class="line4"><geom type="line"><sp>-95.9917401257668 0</sp><ep>95.9917401257668 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="49_45341393" type="shape" x="26544.673349285324" y="26515.47807383402" r="82.18211600691583" s="98.63221724888432" class="line4"><geom type="line"><sp>-128.7722363369219 0</sp><ep>128.77223633692188 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="50_45341393" type="shape" x="29375.939466532887" y="35971.64414292373" r="-70.55996517182375" s="98.6322172488841" class="line4"><geom type="line"><sp>-33.618964853194306 0</sp><ep>33.6189648531943 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="51_45341393" type="shape" x="31987.141976059167" y="32384.93579021587" r="-16.96227690287272" s="98.63221724888426" class="line4"><geom type="line"><sp>-15.98025418493114 0</sp><ep>15.98025418493114 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="52_45341393" type="shape" x="37000.175789437315" y="27005.35351987975" r="-54.52925094812617" s="98.63221724888452" class="line4"><geom type="line"><sp>-61.24631334049081 0</sp><ep>61.2463133404908 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="53_45341393" type="shape" x="43854.99294337608" y="25993.717830654467" r="49.40231566162369" s="98.63221724888432" class="line4"><geom type="line"><sp>-52.18385910737368 0</sp><ep>52.18385910737368 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="56_45341393" type="shape" x="52980.76432958586" y="29901.830007572014" r="0" s="98.63221724888426" class="line4"><geom type="line"><sp>-58.56492196267595 0</sp><ep>58.56492196267595 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="57_45341393" type="shape" x="63100.405753297506" y="31347.023849322515" r="18.40458179835883" s="98.63221724888432" class="line4"><geom type="line"><sp>-46.40859824666122 0</sp><ep>46.408598246661214 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="58_45341393" type="shape" x="72046.22414443395" y="32792.21769107291" r="0" s="98.63221724888426" class="line4"><geom type="line"><sp>-46.663911670947414 0</sp><ep>46.663911670947414 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="0_45341393" type="shape" x="152764.61031270964" y="32283.996716190315" r="0" s="98.63221724888426" class="line4"><geom type="line"><sp>-56.62625039572987 0</sp><ep>56.62625039572987 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="8_45341393" type="shape" x="159892.04357770592" y="30119.490485023205" r="-54.52925094812606" s="98.63221724888432" class="line4"><geom type="line"><sp>-26.94610180611599 0</sp><ep>26.94610180611599 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="16_45341393" type="shape" x="164523.9691344741" y="29738.80312873616" r="29.99999999999986" s="98.6322172488842" class="line4"><geom type="line"><sp>-36.17111983559939 0</sp><ep>36.1711198355994 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="18_45341393" type="shape" x="169542.73320309824" y="22253.355934760628" r="-78.2435477231949" s="98.63221724888426" class="line4"><geom type="line"><sp>-95.9917401257668 0</sp><ep>95.9917401257668 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="19_45341393" type="shape" x="173199.49589611287" y="25567.12988350932" r="82.18211600691583" s="98.63221724888432" class="line4"><geom type="line"><sp>-128.7722363369219 0</sp><ep>128.77223633692188 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="23_45341393" type="shape" x="176030.7620133604" y="35023.295952599015" r="-70.55996517182375" s="98.6322172488841" class="line4"><geom type="line"><sp>-33.618964853194306 0</sp><ep>33.6189648531943 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="25_45341393" type="shape" x="178641.9645228869" y="31436.587599891172" r="-16.96227690287272" s="98.63221724888426" class="line4"><geom type="line"><sp>-15.98025418493114 0</sp><ep>15.98025418493114 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="60_45341393" type="shape" x="183654.99833626504" y="26057.005329555053" r="-54.52925094812617" s="98.63221724888452" class="line4"><geom type="line"><sp>-61.24631334049081 0</sp><ep>61.2463133404908 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="61_45341393" type="shape" x="190509.8154902037" y="25045.36964032969" r="49.40231566162369" s="98.63221724888432" class="line4"><geom type="line"><sp>-52.18385910737368 0</sp><ep>52.18385910737368 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="62_45341393" type="shape" x="199635.5868764139" y="28953.481817247244" r="0" s="98.63221724888426" class="line4"><geom type="line"><sp>-58.56492196267595 0</sp><ep>58.56492196267595 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="63_45341393" type="shape" x="209755.22830012516" y="30398.67565899771" r="18.40458179835883" s="98.63221724888432" class="line4"><geom type="line"><sp>-46.40859824666122 0</sp><ep>46.408598246661214 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="64_45341393" type="shape" x="218701.0466912617" y="31843.86950074812" r="0" s="98.63221724888426" class="line4"><geom type="line"><sp>-46.663911670947414 0</sp><ep>46.663911670947414 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="66_45341393" type="shape" x="229099.72513044585" y="31651.950441495745" r="0" s="98.63221724888426" class="line4"><geom type="line"><sp>-56.62625039572987 0</sp><ep>56.62625039572987 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="67_45341393" type="shape" x="236227.15839544235" y="29487.4442103286" r="-54.52925094812606" s="98.63221724888432" class="line4"><geom type="line"><sp>-26.94610180611599 0</sp><ep>26.94610180611599 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="68_45341393" type="shape" x="240859.08395221032" y="29106.756854041625" r="29.99999999999986" s="98.6322172488842" class="line4"><geom type="line"><sp>-36.17111983559939 0</sp><ep>36.1711198355994 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="69_45341393" type="shape" x="245877.84802083435" y="21621.309660066097" r="-78.2435477231949" s="98.63221724888426" class="line4"><geom type="line"><sp>-95.9917401257668 0</sp><ep>95.9917401257668 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="70_45341393" type="shape" x="249534.6107138492" y="24935.08360881479" r="82.18211600691583" s="98.63221724888432" class="line4"><geom type="line"><sp>-128.7722363369219 0</sp><ep>128.77223633692188 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="71_45341393" type="shape" x="252365.87683109663" y="34391.24967790442" r="-70.55996517182375" s="98.6322172488841" class="line4"><geom type="line"><sp>-33.618964853194306 0</sp><ep>33.6189648531943 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="72_45341393" type="shape" x="254977.07934062305" y="30804.541325196555" r="-16.96227690287272" s="98.63221724888426" class="line4"><geom type="line"><sp>-15.98025418493114 0</sp><ep>15.98025418493114 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="73_45341393" type="shape" x="259990.11315400127" y="25424.959054860483" r="-54.52925094812617" s="98.63221724888452" class="line4"><geom type="line"><sp>-61.24631334049081 0</sp><ep>61.2463133404908 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="74_45341393" type="shape" x="266844.93030794006" y="24413.32336563515" r="49.40231566162369" s="98.63221724888432" class="line4"><geom type="line"><sp>-52.18385910737368 0</sp><ep>52.18385910737368 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="75_45341393" type="shape" x="275970.70169414993" y="28321.435542552652" r="0" s="98.63221724888426" class="line4"><geom type="line"><sp>-58.56492196267595 0</sp><ep>58.56492196267595 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="76_45341393" type="shape" x="286090.34311786125" y="29766.629384303196" r="18.40458179835883" s="98.63221724888432" class="line4"><geom type="line"><sp>-46.40859824666122 0</sp><ep>46.408598246661214 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="77_45341393" type="shape" x="295036.16150899767" y="31211.82322605356" r="0" s="98.63221724888426" class="line4"><geom type="line"><sp>-46.663911670947414 0</sp><ep>46.663911670947414 0</ep><t>8</t></geom><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="80_45341393" type="persistentgroup" x="112001.35942136857" y="13759.98608983792" r="0" s="220.8255865581617"><m o="1_45341393"/><m o="2_45341393"/><m o="3_45341393"/><m o="4_45341393"/><m o="5_45341393"/><m o="9_45341393"/><m o="10_45341393"/><m o="11_45341393"/><m o="12_45341393"/><m o="13_45341393"/><m o="14_45341393"/><m o="15_45341393"/><m o="26_45341393"/><m o="27_45341393"/><m o="28_45341393"/><m o="30_45341393"/><m o="32_45341393"/><m o="33_45341393"/><m o="34_45341393"/><m o="35_45341393"/><m o="39_45341393"/><m o="40_45341393"/><m o="41_45341393"/><m o="42_45341393"/><m o="45_45341393"/><m o="46_45341393"/><m o="47_45341393"/><m o="48_45341393"/><m o="49_45341393"/><m o="50_45341393"/><m o="51_45341393"/><m o="52_45341393"/><m o="53_45341393"/><m o="56_45341393"/><m o="57_45341393"/><m o="58_45341393"/><m o="0_45341393"/><m o="8_45341393"/><m o="16_45341393"/><m o="18_45341393"/><m o="19_45341393"/><m o="23_45341393"/><m o="25_45341393"/><m o="60_45341393"/><m o="61_45341393"/><m o="62_45341393"/><m o="63_45341393"/><m o="64_45341393"/><m o="66_45341393"/><m o="67_45341393"/><m o="68_45341393"/><m o="69_45341393"/><m o="70_45341393"/><m o="71_45341393"/><m o="72_45341393"/><m o="73_45341393"/><m o="74_45341393"/><m o="75_45341393"/><m o="76_45341393"/><m o="77_45341393"/><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="85_45341393" type="button" x="25271.44702551731" y="7087.456288232154" r="0" s="14.914673228047896" class="circle"><type>circle</type><size><w>800</w><h>800</h></size><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta><layout><frametype value="SECTION"/></layout></object><object id="86_45341393" type="text" x="25219.162754474102" y="4173.309209195463" r="0" s="32.88048202036007" class="strong"><height>33.375</height><width>220.4993900181616</width><p align="center"><text><![CDATA[About Me]]></text></p><layout><layout-element role="title" parent-id="85_45341393"/></layout></object><object id="87_45341393" type="text" x="25517.83466295048" y="7953.720271817737" r="0" s="18.97187216800412" class="body"><height>233.625</height><width>410.4340927116845</width><p><text><![CDATA[360 网络安全攻防实验室安全研究员]]></text></p><p><text><![CDATA[FF0000成员]]></text></p><p><text><![CDATA[集渗透狗，web狗于一身的GNU拥护者]]></text></p><p><text><![CDATA[weibo:@redrain学扫地]]></text></p><p><text><![CDATA[twitter:@rootredrain]]></text></p><p><text><![CDATA[]]></text></p><p><text><![CDATA[]]></text></p><layout><layout-element role="body" parent-id="85_45341393"/></layout></object><object id="88_45341393" type="button" x="112357.4142773558" y="17568.621818144573" r="0" s="7.244321483998995" class="circle"><type>circle</type><size><w>800</w><h>800</h></size><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta><layout><frametype value="SECTION"/></layout></object><object id="89_45341393" type="text" x="112332.01887899866" y="15901.97268139564" r="0" s="15.97063366137948" class="head"><height>28.21875</height><width>220.4993900181616</width><p align="center"><text><![CDATA[黑客产业链]]></text></p><layout><layout-element role="title" parent-id="88_45341393"/></layout></object><object id="90_45341393" type="text" x="112420.26246402044" y="17930.270404956722" r="0" s="9.214975013994554" class="body"><height>333.75</height><width>390.9237784827681</width><p><text><![CDATA[1）通过黑客技术入侵获取服务器，站点权限，各种账户信息，网银等，并从中谋取到经济利益的一个产业链]]></text></p><p><text><![CDATA[]]></text></p><p><text><![CDATA[2）这个产业链很健全，而且利益丰厚]]></text></p><p><text><![CDATA[]]></text></p><p><text><![CDATA[3）但并不是整个黑产链条都充斥了黑客行为，黑客行为只是为黑产链条提供支持的手段]]></text></p><layout><layout-element role="body" parent-id="88_45341393"/></layout></object><object id="92_45341393" type="button" x="123459.16308726127" y="16349.678221724122" r="0" s="15.276858515306149" class="bracket"><type>bracket</type><size><w>797.6366322008862</w><h>600</h></size><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="93_45341393" type="text" x="120665.00305170096" y="12814.714555027467" r="0" s="24.96599695798123" class="head"><height>28.21875</height><width>220.4993900181616</width><p align="center"><text><![CDATA[大致分类：]]></text></p><layout><layout-element role="title"/></layout></object><object id="94_45341393" type="text" x="122137.7809047288" y="14294.211158452465" r="0" s="14.30644272746359" class="body"><height>100.125</height><width>415.276358873194</width><p><text><![CDATA[1）流量类型]]></text></p><p><text><![CDATA[网络博彩、外贸营销、黑链买卖交易、寄生虫站群、广告作弊……]]></text></p><layout><layout-element role="body"/></layout></object><object id="95_45341393" type="button" x="171462.12211168787" y="8508.849155282469" r="0" s="16.052198051905382" class="bracket"><type>bracket</type><size><w>797.6366322008862</w><h>600</h></size><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="96_45341393" type="text" x="167737.69999999998" y="4839.3" r="0" s="26.510752204737184" class="head"><height>28.21875</height><width>220.4993900181616</width><p align="center"><text><![CDATA[ HOW]]></text></p><layout><layout-element role="title"/></layout></object><object id="62" type="image" x="173329.3" y="9840.3" r="0" s="7.266877493040822"><source w="1238" h="487">图片3.png<url>图片3.png</url></source><sourceUrl>图片3.png</sourceUrl></object><object id="97_45341393" type="text" x="170648.39432083894" y="8723.343923764776" r="0" s="18.90011840110853" class="strong"><height>333.75</height><width>390.9237784827681</width><p><text><![CDATA[1、入口]]></text></p><p><text><![CDATA[]]></text></p><p><text><![CDATA[]]></text></p><p><text><![CDATA[2、转化]]></text></p><p><text><![CDATA[]]></text></p><p><text><![CDATA[]]></text></p><p><text><![CDATA[]]></text></p><p><text><![CDATA[3、盈利]]></text></p><p><text><![CDATA[]]></text></p><p><text><![CDATA[]]></text></p><layout><layout-element role="body"/></layout></object><object id="99_45341393" type="button" x="237824.15" y="24150.6" r="0" s="9.348411686612208" class="bracket"><type>bracket</type><size><w>797.6366322008862</w><h>600</h></size><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="100_45341393" type="text" x="236918.0089354725" y="22298.81859933334" r="0" s="15.277513861640902" class="strong"><height>33.375</height><width>220.4993900181616</width><p align="center"><text><![CDATA[无孔不入的推广入口]]></text></p><layout><layout-element role="title"/></layout></object><object id="101_45341393" type="text" x="236991.86717858404" y="23089.0144346407" r="0" s="9.433701675354689" class="body"><height>100.125</height><width>390.9237784827681</width><p><text><![CDATA[任何黑产形式都避不开推广，而近年来随着无线安全的火爆，伪基站的利用成为了新的推广入口]]></text></p><layout><layout-element role="body"/></layout></object><object id="20_45341393" type="button" x="305107.4195771556" y="32069.639002888183" r="0" s="55.18211502992466" class="invisible"><type>invisible</type><size><w>1028.9108910891089</w><h>600</h></size><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="24_45341393" type="button" x="110285.31330104369" y="12960.08105490206" r="0" s="327.66072621972603" class="invisible"><type>invisible</type><size><w>1028.9108910891089</w><h>600</h></size><meta><parentTemplate>vital-signs</parentTemplate><notModifiedByUser>from-template</notModifiedByUser></meta></object><object id="31_45341393" type="text" x="112225.37078259104" y="7188.139481809425" r="0" s="60.603702450252065" class="head"><height>28.21875</height><width>109.62888757638412</width><p><text><![CDATA[WHAT~]]></text></p></object><object id="14" type="button" x="-184453.4624072372" y="-11025.924836282637" r="0" s="88.50880604543481" class="invisible"><type>invisible</type><size><w>1090.1785714285716</w><h>630.4290771484375</h></size></object><object id="36_45341393" type="text" x="-205035.13825802313" y="6895.5992638124435" r="0" s="157.87438008956835" class="strong"><height>66.75</height><width>305.59774860156756</width><p><text><![CDATA[rootredrain@gmail.com]]></text></p><p><text><![CDATA[]]></text></p></object><object id="117_45341393" type="text" x="-184142.3376923992" y="-20264.934632782235" r="0" s="568.1710793553772" class="head"><height>56.4375</height><width>158.42082715738624</width><p><text><![CDATA[藏匿在黑暗世界的利益链条]]></text></p></object><object id="6" type="image" x="28469.20722426406" y="47297.75558025873" r="0" s="46.08756898734244"><source w="500" h="335">___money.jpg<url>___money.jpg</url></source><sourceUrl>money.jpg</sourceUrl></object><object id="9" type="text" x="23917.05350138492" y="41494.22444335053" r="0" s="79.84693924147717" class="body"><height>33.375</height><width>-157.1953125</width><p><text><![CDATA[$money≠$evil]]></text></p></object><object id="10" type="text" x="23977.52100759118" y="50373.88980771507" r="0" s="37.73493925822768" class="head"><height>141.09375</height><width>345.2646962932031</width><p><text><![CDATA[金钱不等于罪恶，但金钱绝对不是彰显和证明黑客能力的标准。]]></text></p><p><text><![CDATA[]]></text></p><p><text><![CDATA[]]></text></p><p><text><![CDATA[]]></text></p></object><object id="11" type="button" x="97206.33780980032" y="-36656.84692465495" r="0" s="25.375667340691617" class="circle"><type>circle</type><size><w>800</w><h>800</h></size></object><object id="12" type="text" x="95700.93975426973" y="-42719.167264727526" r="0" s="79.29049577853003" class="head"><height>28.21875</height><width>-120.9375</width><p><text><![CDATA[contents]]></text></p></object><object id="13" type="text" x="96608.47582808076" y="-37365.82916988111" r="0" s="47.29686876396941" class="strong"><height>133.5</height><width>-241.1484375</width><p><text><![CDATA[0x00什么是黑产]]></text></p><p><text><![CDATA[0x01黑产的具体流程]]></text></p><p><text><![CDATA[0x02黑产技术举例剖析]]></text></p><p><text><![CDATA[0x03勿忘初心]]></text></p></object><object id="0" type="text" x="121340.33313494045" y="15816.663147020972" r="0" s="14.30644272746359" class="body"><height>66.75</height><width>-303.796875</width><p><text><![CDATA[2）僵尸网络]]></text></p><p><text><![CDATA[木马后门的参与，DDOS猖獗]]></text></p></object><object id="1" type="text" x="120111.5575073662" y="16916.94491362415" r="0" s="14.30644272746359" class="body"><height>33.375</height><width>-131.9765625</width><p><text><![CDATA[3）私服外挂]]></text></p></object><object id="5" type="text" x="122772.85146010418" y="18076.08221006177" r="0" s="14.30644272746359" class="body"><height>66.75</height><width>-503.953125</width><p><text><![CDATA[4）数据买卖交易]]></text></p><p><text><![CDATA[网站数据库，信用卡盗刷，票据信息买导致诈骗]]></text></p></object><object id="7" type="text" x="121254.9378867203" y="19454.785934531476" r="0" s="14.30644272746359" class="body"><height>66.75</height><width>-291.7265625</width><p><text><![CDATA[5）其他]]></text></p><p><text><![CDATA[0day买卖，商业飞（偷）单]]></text></p></object><object id="16" type="button" x="109563.66754832756" y="6994.439005628256" r="0" s="0.37813213191384415" class="bracket"><type>bracket</type><size><w>1073.885185185185</w><h>613</h></size></object><object id="17" type="text" x="109431.82190379352" y="6908.577224061102" r="0" s="0.5339755554423502" class="strong"><height>33.375</height><width>-103.1015625</width><p><text><![CDATA[ 流量类型]]></text></p></object><object id="18" type="text" x="109537.81513743776" y="6964.743075163704" r="0" s="0.44009134342310585" class="body"><height>100.125</height><width>552</width><p><text><![CDATA[ 以外贸营销为例，整个产业盈利在于外贸销量，而用户基数决定了销量， 外贸网站的流量越高，用户基数也就相应越大，成交额也就越高]]></text></p></object><object id="19" type="image" x="109536.95" y="7048" r="0" s="0.3176286642505454"><source w="675" h="378">1.png<url>1.png</url></source><sourceUrl>1.png</sourceUrl></object><object id="20" type="button" x="110785.15" y="6930.1" r="0" s="0.32825980978008507" class="bracket"><type>bracket</type><size><w>1303.6027186487518</w><h>819.5232588884253</h></size></object><object id="55" type="image" x="110783.05" y="6938.25" r="0" s="0.39412139247658035"><source w="936" h="182">2333.png<url>2333.png</url></source><sourceUrl>2333.png</sourceUrl></object><object id="21" type="text" x="110652.5" y="6832.45" r="0" s="0.5851667318402923" class="strong"><height>33.375</height><width>-103.1015625</width><p><text><![CDATA[ 僵尸网络]]></text></p></object><object id="22" type="text" x="110761.07107230918" y="6870.837642104114" r="0" s="0.502812193309285" class="body"><height>66.75</height><width>552</width><p><text><![CDATA[ 几年前，木马几乎充斥着整个黑产，黑客们有着如同传销一般的网络关系]]></text></p></object><object id="24" type="text" x="110776.2761653534" y="7007.937642104113" r="0" s="0.502812193309285" class="body"><height>66.75</height><width>552</width><p><text><![CDATA[得到的肉鸡用来挖BTC，贩卖个人信息，甚至是卖到黄色网站]]></text></p></object><object id="25" type="button" x="111795.80448867912" y="7110.372692064785" r="0" s="0.46212595780696314" class="bracket"><type>bracket</type><size><w>947.3690510014036</w><h>631.4749342335073</h></size></object><object id="26" type="text" x="111678.225" y="7005.54375" r="0" s="0.5453968407073558" class="strong"><height>33.375</height><width>-175.1015625</width><p><text><![CDATA[ 数据库买卖交易]]></text></p></object><object id="23" type="image" x="111906.2" y="7151.65" r="0" s="0.2502311493323048"><source w="734" h="726">图片4.png<url>图片4.png</url></source><sourceUrl>图片4.png</sourceUrl></object><object id="27" type="text" x="111780.97952803526" y="7052.56756425893" r="0" s="0.5453968407073558" class="body"><height>100.125</height><width>552</width><p><text><![CDATA[ 从2011年底CSDN拖库，到才发生的毛子脱裤12亿数据，大大小小的数据库泄露屡见不鲜，数据~漏到哪儿去赚钱了]]></text></p></object><object id="28" type="text" x="111727.16428795348" y="7121.070929651393" r="0" s="0.5453968407073558" class="head"><height>141.09375</height><width>-292.59375</width><p><text><![CDATA[精准广告投放]]></text></p><p><text><![CDATA[各种考试信息,招商数据买卖]]></text></p><p><text><![CDATA[诈骗]]></text></p><p><text><![CDATA[猎头]]></text></p><p><text><![CDATA[各种中介]]></text></p></object><object id="29" type="text" x="171634.85525080928" y="6764.423387107727" r="0" s="17.18192581918957" class="body"><height>33.375</height><width>-544.8046875</width><p><text><![CDATA[ 推广方式：SEO（包括但不限于入侵）、伪基站……]]></text></p></object><object id="30" type="text" x="167747.89932949084" y="8983.911548288193" r="0" s="17.18192581918957" class="body"><height>66.75</height><width>-72</width><p><text><![CDATA[新用户]]></text></p><p><text><![CDATA[老用户]]></text></p></object><object id="31" type="text" x="167747.7600707665" y="11224.683025695467" r="0" s="17.18192581918957" class="body"><height>66.75</height><width>-96</width><p><text><![CDATA[数学方式]]></text></p><p><text><![CDATA[欺诈手段]]></text></p></object><object id="33" type="button" x="174903.9" y="44053.5" r="0" s="19.407063064430268" class="bracket"><type>bracket</type><size><w>796.0687960687961</w><h>600</h></size></object><object id="34" type="image" x="170880.65" y="41506.600000000006" r="0" s="12.38540372554038"><source w="404" h="128">321.jpg<url>321.jpg</url></source><sourceUrl>321.jpg</sourceUrl></object><object id="35" type="text" x="169319.81577897584" y="39745.29340900405" r="0" s="41.87948856728581" class="head"><height>28.21875</height><width>-50.15625</width><p><text><![CDATA[WHY]]></text></p></object><object id="41" type="image" x="171166.3" y="47165.75" r="0" s="7.351097716709657"><source w="780" h="396">4.jpg<url>4.jpg</url></source><sourceUrl>4.jpg</sourceUrl></object><object id="40" type="image" x="178117.5" y="47118.149999999994" r="0" s="7.518823013440775"><source w="792" h="384">3.jpg<url>3.jpg</url></source><sourceUrl>3.jpg</sourceUrl></object><object id="37" type="text" x="173790.80000000002" y="43888.95" r="0" s="19.99819993697925" class="body"><height>100.125</height><width>552</width><p><text><![CDATA[众所周知]]></text></p><p><text><![CDATA[如果X是在概率空间（Ω, P）中的一个随机变量，那么它的期望值E[X]的定义是]]></text></p></object><object id="42" type="button" x="187082.2" y="17332.7" r="0" s="11.358166831167386" class="bracket"><type>bracket</type><size><w>797.7175463623396</w><h>600</h></size></object><object id="32" type="text" x="185249.64999999997" y="14678.75" r="0" s="16" class="head"><height>28.21875</height><width>-228</width><p><text><![CDATA[ RFID带来的黑色产业]]></text></p></object><object id="38" type="image" x="186473.39999999997" y="18547.5" r="0" s="9.30286067401843"><source w="639" h="412">123.png<url>123.png</url></source><sourceUrl>123.png</sourceUrl></object><object id="36" type="text" x="185174.99340489443" y="15917.822256982045" r="0" s="10.738910216959455" class="body"><height>133.5</height><width>325.7525077286821</width><p><text><![CDATA[全国各个领域使用基数高]]></text></p><p><text><![CDATA[破解工具傻瓜化，门槛低]]></text></p><p><text><![CDATA[近年来此类黑产逐渐没落]]></text></p><p><text><![CDATA[（但淘宝仍然可见破解服务）]]></text></p></object><object id="39" type="image" x="239660.81264539895" y="25154.748736890186" r="0" s="9.091406104407849"><source w="349" h="334">321.png<url>321.png</url></source><sourceUrl>321.png</sourceUrl></object><object id="43" type="button" x="236288.4626453989" y="25154.74873689019" r="0" s="3.8583157356927735" class="circle"><type>circle</type><size><w>800</w><h>800</h></size></object><object id="44" type="text" x="236283.88822410448" y="24535.90159133279" r="0" s="5.920133626479602" class="body"><height>133.5</height><width>320.1206812143509</width><p><text><![CDATA[GNUradio]]></text></p><p><text><![CDATA[-->openbts、openbsc]]></text></p><p indent="1"><text><![CDATA[-->usrp1、usrpn210]]></text></p><p indent="2"><text><![CDATA[-->rfx900 rfx1800 wbx]]></text></p></object><object id="45" type="text" x="235762.5122665054" y="25294.844626034544" r="0" s="5.920133626479602" class="head"><height>28.21875</height><width>-144</width><p><text><![CDATA[邪恶的黑客们]]></text></p></object><object id="46" type="text" x="236045.01264539897" y="25794.498736890197" r="0" s="4.89563094141227" class="strong"><height>133.5</height><width>-289.59375</width><p><text><![CDATA[伪基站推广博彩信息]]></text></p><p><text><![CDATA[伪造号码诈骗]]></text></p><p><text><![CDATA[甚至利用n210(net)进行种马]]></text></p><p><text><![CDATA[（未成规模化）]]></text></p></object><object id="47" type="button" x="263475.3500000001" y="15641.25" r="0" s="15.90895599234632" class="bracket"><type>bracket</type><size><w>797.7931034482758</w><h>600</h></size></object><object id="48" type="text" x="260496.88299060817" y="12363.436592896196" r="0" s="42.47789805687308" class="head"><height>28.21875</height><width>-96</width><p><text color="16711680"><![CDATA[勿忘初心]]></text></p></object><object id="49" type="text" x="263618.10000000003" y="15479.500000000002" r="0" s="42.47789805687308" class="strong"><height>66.75</height><width>-254.5078125</width><p><text><![CDATA[I choose to be a hacker]]></text></p><p><text><![CDATA[just because it's fun]]></text></p></object><object id="50" type="button" x="247607.75" y="8329.4" r="0" s="11.944417309955618" class="roundrect"><type>roundrect</type><size><w>795.9183673469387</w><h>600</h></size></object><object id="51" type="text" x="245020.6" y="5340.750000000001" r="0" s="16" class="head"><height>28.21875</height><width>-192</width><p><text><![CDATA[邪恶和正义的抗衡]]></text></p></object><object id="52" type="text" x="247900.60000000003" y="6798.9" r="0" s="16" class="body"><height>100.125</height><width>552</width><p><text><![CDATA[世界上总有那么一群人，他们有能力分分钟成为富翁，但是他们选择了吊丝的生活；他们有能力hacking下大部分主机，但是他们选择了守护]]></text></p></object><object id="53" type="image" x="244322" y="10344.85" r="0" s="7.037364640466222"><source w="370" h="376">_1.png<url>_1.png</url></source><sourceUrl>1.png</sourceUrl></object><object id="56" type="image" x="249734.55" y="10344.65" r="0" s="6.769285625305838"><source w="691" h="391">_yooo.png<url>_yooo.png</url></source><sourceUrl>yooo.png</sourceUrl></object><object id="54" type="text" x="247708.79999999996" y="8334.2" r="0" s="16" class="strong"><height>66.75</height><width>552</width><p><text><![CDATA[金钱不代表能力高低，正义的小伙伴都那么牛逼了，还要啥自行车！]]></text></p></object><object id="57" type="button" x="251083.95" y="43300.75000000001" r="0" s="18.554636798099505" class="bracket"><type>bracket</type><size><w>798.0652962515115</w><h>600</h></size></object><object id="58" type="text" x="251452.15" y="43107.29999999998" r="0" s="32" class="head"><height>225.75</height><width>426.74549551741256</width><p><text><![CDATA[作为安全研究员，我们在默默做着自认为很伟大的事情]]></text></p><p><text><![CDATA[他们黑服务器，我们做安全服务溯源攻击]]></text></p><p><text><![CDATA[他们做非法推广，我们更新收录，排名规则]]></text></p><p><text><![CDATA[他们做伪基站黑产，我们甚至专门在产品上做了防御]]></text></p></object><object id="59" type="button" x="244209.45" y="33219.799999999996" r="0" s="6.727889268020357" class="bracket"><type>bracket</type><size><w>796.9575660528423</w><h>600</h></size></object><object id="60" type="image" x="242969.55" y="33204.6" r="0" s="4.450185194072343"><source w="511" h="751">图片1.png<url>图片1.png</url></source><sourceUrl>图片1.png</sourceUrl></object><object id="61" type="image" x="245394.45" y="33459.6" r="0" s="4.462675596284357"><source w="492" h="565">图片2.png<url>图片2.png</url></source><sourceUrl>图片2.png</sourceUrl></object></zui-table><background><layer depth="134.91103988997818" fadescale="0.016307042046330166"><object id="background1347492843" type="image" x="125700.27441624446" y="-5036.271396937557" r="0" s="180.09630973503369"><source w="3003" h="2943" bt="13.05" bl="-1.6">1347492843<url>1347492843.swf</url></source><resource><id>1347492843</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/6/0/f3c2f05dcad2528d1f510741ec9f92bab6b5a.swf</url></resource><sourceUrl>EKG PATTERN 2.swf</sourceUrl><extra><fixed_avm1_pos>1</fixed_avm1_pos></extra></object></layer></background><path><s><eagle o="15"/></s><s><eagle o="8"/></s><s><eagle o="81_45341393"/></s><s><eagle o="85_45341393"/></s><s><eagle o="6"/></s><s><eagle o="11"/></s><s><eagle o="55_45341393"/></s><s><eagle o="88_45341393"/></s><s><eagle o="92_45341393"/></s><s><eagle o="16"/></s><s><eagle o="20"/></s><s><eagle o="25"/></s><s><eagle o="95_45341393"/></s><s><eagle o="33"/></s><s><eagle o="42"/></s><s><eagle o="99_45341393"/></s><s><eagle o="43"/></s><s><eagle o="59"/></s><s><eagle o="50"/></s><s><eagle o="56"/></s><s><eagle o="57"/></s><s><eagle o="47"/></s><s><eagle o="20_45341393"/></s><s><eagle o="24_45341393"/></s></path><style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('wryh.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: wryh;
+}
+
+@font-face
+{
+	src: url('fzktjt.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: normal;
+	font-family: fzktjt;
+}
+
+@font-face
+{
+	src: url('wryh.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: normal;
+	font-family: wryh;
+}
+
+@font-face
+{
+	src: url('fzktjt.keg');
+	fontFamily: undefined;
+	font-class: undefined;
+	font-style: normal;
+	font-weight: normal;
+	font-family: fzktjt;
+}
+
+.line1
+{
+	color: #c7c7c4;
+	gradEndColor: #c7c7c4;
+	gradStartColor: #c7c7c4;
+}
+
+.line2
+{
+	color: #111;
+	gradEndColor: #111;
+	gradStartColor: #111;
+}
+
+.line3
+{
+	color: #5374ec;
+	gradEndColor: #5374ec;
+	gradStartColor: #5374ec;
+}
+
+.line4
+{
+	color: #66e186;
+	gradEndColor: #66e186;
+	gradStartColor: #66e186;
+}
+
+.line5
+{
+	color: #fa5151;
+	gradEndColor: #fa5151;
+	gradStartColor: #fa5151;
+}
+
+.poly1
+{
+	color: #333;
+	gradEndColor: #c7c7c4;
+	gradStartColor: #c7c7c4;
+}
+
+.poly2
+{
+	color: #333;
+	gradEndColor: #111;
+	gradStartColor: #111;
+}
+
+.poly3
+{
+	color: #333;
+	gradEndColor: #5374ec;
+	gradStartColor: #5374ec;
+}
+
+.poly4
+{
+	color: #333;
+	gradEndColor: #66e186;
+	gradStartColor: #66e186;
+}
+
+.poly5
+{
+	color: #333;
+	gradEndColor: #fa5151;
+	gradStartColor: #fa5151;
+}
+
+Background
+{
+	gradEnd: #333;
+	gradStart: #333;
+}
+
+Grid
+{
+	color: #646464;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 10;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: .9;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderColor: #318bff;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #318bff;
+	gradStartAlpha: 1;
+	gradStartColor: #318bff;
+	padding: 1.03;
+	thickness: 10;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderColor: #ea514a;
+	borderThickness: 3;
+	gradEndAlpha: 1;
+	gradEndColor: #ea514a;
+	gradStartAlpha: 1;
+	gradStartColor: #ea514a;
+	padding: 1.03;
+	thickness: 10;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #318bff;
+	borderThickness: 10;
+	gradEndAlpha: 0.2;
+	gradEndColor: #318bff;
+	gradStartAlpha: 0;
+	gradStartColor: #318bff;
+	padding: 1.03;
+	radius: 1;
+	thickness: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #fffea1;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #111;
+	background-padding: 10;
+}
+
+ZLabel.head
+{
+	color: #34fd7a;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #111;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #66fffd;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #ea514a;
+	background-padding: 8;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZMarker
+{
+	alpha: .65;
+	color: #e926e6;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #333;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #333;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #333;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style><hash>5651a594</hash><config>yeS2s+LEjjpq5wAbC6UAI1lWdqKtgtY1Bg==</config></zuiprezi>
