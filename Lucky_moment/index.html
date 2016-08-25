@@ -1,0 +1,112 @@
+<!--KCon 2016 抽奖程序，非专业前端，估计代码有点挫-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>KCon 2016 幸运抽奖</title>
+<script type="text/javascript" src="js/jquery-1.7.2-min.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+<script type="text/javascript" src="js/data.js"></script>
+<style>
+html,body{margin:0;padding:0;overflow:hidden;}
+body{background-color:#09283D;}
+.main_bg{background:url(images/main_bg.jpg) top center no-repeat;height:900px;}
+.main{width:1000px;height:1000px;position:relative;margin:0 auto;}
+.num_mask{height:184px;width:760px;position:absolute;left:50%;top:298px;margin-left:-373px;z-index:9;}
+.num_box{height:450px;width:836px;position:absolute;left:50%;top:300px;margin-left:-404px;z-index:8;overflow:hidden;text-align:center;}
+.num{background:url(images/num.png) top center repeat-y;width:181px;height:265px;float:left;margin-right:28px;}
+.btn{top:80%;width:264px;height:88px;position:absolute;left:50%;bottom:50px;margin-left:-132px;cursor:pointer;clear:both;border:1px solid #cd000f;line-height:90px;box-shadow:inset 0px 0px 3px #256192;background-color:rgba(205, 0, 15, 0.3);font-size:40px;color:#FFF;border-radius:8px;}
+.btn:hover{background-color:rgba(205, 0, 15, 0.8);text-decoration:none}
+</style>
+</head>
+<body>
+<div class="main_bg">
+  <div class="main">
+    <div id="res" style="text-align:center;color:#fff;padding-top:15px;"></div>
+    <div class="num_mask"></div>
+    <div class="num_box">
+      <div class="num"></div>
+      <div class="num"></div>
+      <div class="num"></div>
+      <div class="num"></div>
+      <div class="btn">开始抽奖</div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
+<script>
+//ctrl+alt+r重置抽奖
+document.onkeydown= function(e) {
+  //清空相关数据
+	var storage = window.localStorage;
+	e=e||window.event;
+	kc=e.keyCode||e.charCode;
+	if ((kc == 82&&e.ctrlKey&&e.altKey)) {
+		localStorage.setItem('attendees', '');
+    localStorage.setItem('times', '');
+		console.log('抽奖已重置!');
+		console.log('Attendees:' + storage.luckiers);
+	}
+}
+var storage = window.localStorage;
+
+function numRand() {
+  //取所有与会者（签到的端口列表），js/data.js
+	var attendees = storage.getItem('attendees');
+  //判断是否有与会者存储数据，没有就初始化下存储
+	if (!attendees){
+		storage.setItem('attendees', PORTS);
+    attendees = PORTS;
+	}else{
+		attendees = attendees.split(",");
+	}
+	x = attendees.length;
+  console.log(x);
+
+	var rand = parseInt(Math.random() * x);
+	var luckier = attendees[rand]; //随机取幸运儿
+	attendees.splice(rand, 1); //将幸运儿从参会者列表删除，避免重复中奖
+	console.log('中奖号码:' +  luckier);
+	localStorage.setItem('attendees', attendees);//继续保存剩余的参会者作为待抽奖列表
+	return parseInt(luckier);
+}
+var isBegin = false;
+
+//动画效果
+$(function(){
+	var u = 265;
+	$('.btn').click(function(){
+
+    var result = numRand();
+		isBegin = true;
+		$(".num").css('backgroundPositionY',0);
+
+
+		if (result < 10){
+			result = '000' + result;
+		}else if (result < 100){
+			result = '00' + result;
+    }else if (result < 1000){
+			result = '0' + result;
+		}else{
+			result = result + '';
+		}
+		var num_arr = result.split('');
+		$(".num").each(function(index){
+			var _num = $(this);
+			setTimeout(function(){
+				_num.animate({
+					backgroundPositionY: (u*60) - (u*num_arr[index])
+				},{
+					duration: 6000+index*3000,
+					easing: "easeInOutCirc",
+					complete: function(){
+						if(index==4) isBegin = false;
+					}
+				});
+			}, index * 300);
+		});
+	});
+});
+</script>
