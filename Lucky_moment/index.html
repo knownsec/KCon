@@ -39,74 +39,74 @@ body{background-color:#09283D;}
 //ctrl+alt+r重置抽奖
 document.onkeydown= function(e) {
   //清空相关数据
-	var storage = window.localStorage;
-	e=e||window.event;
-	kc=e.keyCode||e.charCode;
-	if ((kc == 82&&e.ctrlKey&&e.altKey)) {
-		localStorage.setItem('attendees', '');
+    var storage = window.localStorage;
+    e=e||window.event;
+    kc=e.keyCode||e.charCode;
+    if ((kc == 82&&e.ctrlKey&&e.altKey)) {
+        localStorage.setItem('attendees', '');
     localStorage.setItem('times', '');
-		console.log('抽奖已重置!');
-		console.log('Attendees:' + storage.luckiers);
-	}
+        console.log('抽奖已重置!');
+        console.log('Attendees:' + storage.luckiers);
+    }
 }
 var storage = window.localStorage;
 
 function numRand() {
   //取所有与会者（签到的端口列表），js/data.js
-	var attendees = storage.getItem('attendees');
+    var attendees = storage.getItem('attendees');
   //判断是否有与会者存储数据，没有就初始化下存储
-	if (!attendees){
-		storage.setItem('attendees', PORTS);
+    if (!attendees){
+        storage.setItem('attendees', PORTS);
     attendees = PORTS;
-	}else{
-		attendees = attendees.split(",");
-	}
-	x = attendees.length;
+    }else{
+        attendees = attendees.split(",");
+    }
+    x = attendees.length;
   console.log(x);
 
-	var rand = parseInt(Math.random() * x);
-	var luckier = attendees[rand]; //随机取幸运儿
-	attendees.splice(rand, 1); //将幸运儿从参会者列表删除，避免重复中奖
-	console.log('中奖号码:' +  luckier);
-	localStorage.setItem('attendees', attendees);//继续保存剩余的参会者作为待抽奖列表
-	return parseInt(luckier);
+    var rand = parseInt(Math.random() * x);
+    var luckier = attendees[rand]; //随机取幸运儿
+    attendees.splice(rand, 1); //将幸运儿从参会者列表删除，避免重复中奖
+    console.log('中奖号码:' +  luckier);
+    localStorage.setItem('attendees', attendees);//继续保存剩余的参会者作为待抽奖列表
+    return parseInt(luckier);
 }
 var isBegin = false;
 
 //动画效果
 $(function(){
-	var u = 265;
-	$('.btn').click(function(){
+    var u = 265;
+    $('.btn').click(function(){
 
-    var result = numRand();
-		isBegin = true;
-		$(".num").css('backgroundPositionY',0);
+        var result = numRand();
+        isBegin = true;
+        $(".num").css('backgroundPositionY',0);
 
 
-		if (result < 10){
-			result = '000' + result;
-		}else if (result < 100){
-			result = '00' + result;
-    }else if (result < 1000){
-			result = '0' + result;
-		}else{
-			result = result + '';
-		}
-		var num_arr = result.split('');
-		$(".num").each(function(index){
-			var _num = $(this);
-			setTimeout(function(){
-				_num.animate({
-					backgroundPositionY: (u*60) - (u*num_arr[index])
-				},{
-					duration: 6000+index*3000,
-					easing: "easeInOutCirc",
-					complete: function(){
-						if(index==4) isBegin = false;
-					}
-				});
-			}, index * 300);
-		});
-	});
+        if (result < 10){
+            result = '000' + result;
+        }else if (result < 100){
+            result = '00' + result;
+        }else if (result < 1000){
+            result = '0' + result;
+        }else{
+            result = result + '';
+        }
+        var num_arr = result.split('');
+        $(".num").each(function(index){
+            var _num = $(this);
+            setTimeout(function(){
+                _num.animate({
+                    backgroundPositionY: (u*60) - (u*num_arr[index])
+                },{
+                    duration: 6000+index*3000,
+                    easing: "easeInOutCirc",
+                    complete: function(){
+                        if(index==4) isBegin = false;
+                    }
+                });
+            }, index * 300);
+        });
+    });
 });
 </script>
